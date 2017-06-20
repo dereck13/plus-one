@@ -1,0 +1,5 @@
+I want to add one extra product for every booking the customer makes, so the customer selects say 3 spaces on my tour and pays for 3 spots, but I want the inventory to be 3 +1.
+If say 5 spaces are selected then the invotory is reduced by 5 +1
+This is in woocommerce bookings.
+What CSS code is needed and where to put it??
+
